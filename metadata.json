@@ -1,0 +1,6 @@
+{
+  "name": "WristSOS App",
+  "description": "WristSOS Emergency Voice-Activated Alert Application with continuous 'HELP HELP' detection, emergency mobile contacts, flashing red warning, loud siren, and GPS dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
